@@ -51,3 +51,10 @@ Based on the doctrine that man should live without exploiting animals!
  - [Violife](https://violifefoods.com/) - Various cheeses products
  - [AlPro](https://www.alpro.com/nl/) - Big variety of plant-based products
 
+## Contributing
+
+Everyone is welcome to contribute to this list. Make sure to read the [contribution guidelines](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md) before submitting a pull request.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
