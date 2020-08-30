@@ -43,6 +43,7 @@ Based on the doctrine that man should live without exploiting animals!
 
  - [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food
  - [VEGA-LIFE](https://www.vega-life.nl/) - Shoes, fashion, lifestlye products, 20+ years around
+ - [Vegan Mission](https://www.veganmission.nl/) - Online store for Belgium and the Netherlands
 
 ## Brands
 
