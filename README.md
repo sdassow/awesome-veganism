@@ -9,7 +9,7 @@ Based on the doctrine that man should live without exploiting animals!
  - [Shoes](#shoes)
  - [Food](#food)
    - [Restaurants](#restaurants)
-   - [Online shops](#online-shops)
+ - [Shops](#shops)
  - [Brands](#brands)
 
 
@@ -39,9 +39,10 @@ Based on the doctrine that man should live without exploiting animals!
  - Köln, Germany
    - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality
 
-### Online shops
+## Shops
 
- - [veggie4u](https://webshop.veggie4u.nl/) - Dutch shop with big selection
+ - [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food
+ - [VEGA-LIFE](https://www.vega-life.nl/) - Webshop and store in Amsterdam, Netherlands, 20+ years around
 
 ## Brands
 
