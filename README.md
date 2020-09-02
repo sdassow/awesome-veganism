@@ -38,6 +38,9 @@ Based on the doctrine that man should live without exploiting animals!
 
  - Köln, Germany
    - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality
+ 
+ - Utrecht, Netherlands
+   - [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food
 
 ## Shops
 
