@@ -27,7 +27,7 @@ Based on the doctrine that man should live without exploiting animals!
  - Amsterdam, The Netherlands
    - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality classics
    - [Trevis](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing food
-   - [Deer Mama](https://deermama.nl/) - Colorful and nice cakes
+   - [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes
    - [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly
 
  - Bonn, Germany
