@@ -42,6 +42,9 @@ Based on the doctrine that man should live without exploiting animals!
  - Utrecht, Netherlands
    - [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food
 
+ - Zaandijk, Netherlands
+   - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness
+
 ## Shops
 
  - [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food
