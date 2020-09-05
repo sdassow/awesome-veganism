@@ -8,6 +8,7 @@ Based on the doctrine that man should live without exploiting animals!
 
  - [Shoes](#shoes)
  - [Food](#food)
+   - [Bakeries](#bakeries)
    - [Restaurants](#restaurants)
  - [Shops](#shops)
  - [Brands](#brands)
