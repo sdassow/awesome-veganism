@@ -20,6 +20,16 @@ Based on the doctrine that man should live without exploiting animals!
 
 ## Food
 
+### Bakeries
+
+*This category is strictly limited to fully vegan / 100% plant-based bakeries.*
+
+ - Monster, Netherlands
+   - [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - Amazing selection of cakes, macarons, dutch specialties, and more
+
+ - Zaandijk, Netherlands
+   - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness
+
 ### Restaurants
 
 *This category is strictly limited to fully vegan / 100% plant-based restaurants.*
@@ -39,15 +49,9 @@ Based on the doctrine that man should live without exploiting animals!
 
  - London, UK
    - [Eat By Cloe](https://eatbychloe.com/) - Mandatory fish and chips
-
- - Monster, Netherlands
-   - [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - Amazing selection of cakes, macarons, dutch specialties, and more
  
  - Utrecht, Netherlands
    - [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food
-
- - Zaandijk, Netherlands
-   - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness
 
 ## Shops
 
