@@ -33,11 +33,14 @@ Based on the doctrine that man should live without exploiting animals!
  - Bonn, Germany
    - [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria
 
+ - Köln, Germany
+   - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality 
+
  - London, UK
    - [Eat By Cloe](https://eatbychloe.com/) - Mandatory fish and chips
 
- - Köln, Germany
-   - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality
+ - Monster, Netherlands
+   - [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - Amazing selection of cakes, macarons, dutch specialties, and more
  
  - Utrecht, Netherlands
    - [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food
