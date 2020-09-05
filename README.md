@@ -29,6 +29,7 @@ Based on the doctrine that man should live without exploiting animals!
    - [Trevis](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing food
    - [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes
    - [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly
+   - [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts
 
  - Bonn, Germany
    - [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria
