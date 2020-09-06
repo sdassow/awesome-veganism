@@ -71,7 +71,7 @@ Based on the doctrine that man should live without exploiting animals!
 
 ## Contributing
 
-Everyone is welcome to contribute to this list. Make sure to read the [contribution guidelines](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md) before submitting a pull request.
+Everyone is welcome to contribute to this list - read the [contribution guidelines](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md) to find out how.
 
 ## License
 
