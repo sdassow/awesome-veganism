@@ -35,11 +35,11 @@ Based on the doctrine that man should live without exploiting animals!
 
 *This category is strictly limited to fully vegan / 100% plant-based restaurants.*
 
- - Amsterdam, The Netherlands
-   - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality classics
-   - [Trevis](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing food
+ - Amsterdam, Netherlands
    - [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes
    - [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly
+   - [Trevis](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing food
+   - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality classics
    - [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts
 
  - Bonn, Germany
@@ -59,18 +59,18 @@ Based on the doctrine that man should live without exploiting animals!
 
 ## Shops
 
- - [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food
  - [VEGA-LIFE](https://www.vega-life.nl/) - Shoes, fashion, lifestlye products, 20+ years around
- - [Vegan Mission](https://www.veganmission.nl/) - Online store for Belgium and the Netherlands
  - [Vegabond](https://vegabond.nl/) - Fully vegan store, in-house deli, and catering in Amsterdam, Netherlands
+ - [Vegan Mission](https://www.veganmission.nl/) - Online store for Belgium and the Netherlands
+ - [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food
 
 ## Brands
 
 *This category is stricly limited to fully vegan / 100% plant-based brands.*
 
+ - [AlPro](https://www.alpro.com/nl/) - Big variety of plant-based products
  - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden
  - [Violife](https://violifefoods.com/) - Various cheeses products
- - [AlPro](https://www.alpro.com/nl/) - Big variety of plant-based products
 
 ## Contributing
 
