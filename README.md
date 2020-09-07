@@ -44,6 +44,9 @@ Based on the doctrine that man should live without exploiting animals!
 
  - Bonn, Germany
    - [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria
+   
+ - Eindhoven, Netherlands
+   - [Bar Bistro Calypso](https://www.bistrocalypso.nl/) - Cosiest livingroom in town, with tasty no-nonsense dishes and good drinks
 
  - Köln, Germany
    - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality 
