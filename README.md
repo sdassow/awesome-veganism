@@ -48,6 +48,7 @@ Based on the doctrine that man should live without exploiting animals!
  - Eindhoven, Netherlands
    - [Bar Bistro Calypso](https://www.bistrocalypso.nl/) - Cosiest livingroom in town, with tasty no-nonsense dishes and good drinks
    - [Bij Albrecht](https://www.bijalbrecht.nl/) - Vegan and organic food experience with seasonal produce
+   - [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts
 
  - Köln, Germany
    - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality 
