@@ -37,6 +37,7 @@ Based on the doctrine that man should live without exploiting animals!
 
  - Amsterdam, Netherlands
    - [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes
+   - [Koffie Ende Koeck](https://koffieendekoeck.nl/) - Small vegan cafe, with nice brunch, and awesome vegan high tea
    - [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly with Asian kitchen and some dutch classics
    - [Mr. & Mrs. Watson](https://watsonsfood.com/) - Relaxed atmosphere, nice drinks, and great dishes
    - [Trevis](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing food
