@@ -57,6 +57,9 @@ Based on the doctrine that man should live without exploiting animals!
 
  - London, UK
    - [Eat By Cloe](https://eatbychloe.com/) - Mandatory fish and chips
+
+ - Oakland, USA
+   - [Millennium Restaurant](https://www.millenniumrestaurant.com/) - Far cry from your ordinary vegan spot in that it takes a hands on, from scratch approach to food which assures a fresh, local, organic and homemade product every time
  
  - Utrecht, Netherlands
    - [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food
