@@ -16,6 +16,7 @@ Based on the doctrine that man should live without exploiting animals!
 
 ## Books
 
+ - [Happily Ever Esther](https://www.grandcentralpublishing.com/titles/steve-jenkins/happily-ever-esther/9781538728123/) - Wonderful true life tale, with a lot of love and compassion, and it's hilarious
  - [That’s Not My Momma’s Milk!](https://veganpublishers.com/multimedia-archive/thats-not-my-mommas-milk/) - Really simple book, really easy to grasp and makes anyone of any age think, by exploring the animal kingdom and where baby animals get their milk from
 
 ## Shoes
