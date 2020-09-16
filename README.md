@@ -6,6 +6,7 @@ Based on the doctrine that man should live without exploiting animals!
 
 ## Table of Contents
 
+ - [Books](#books)
  - [Shoes](#shoes)
  - [Food](#food)
    - [Bakeries](#bakeries)
@@ -13,6 +14,7 @@ Based on the doctrine that man should live without exploiting animals!
  - [Shops](#shops)
  - [Brands](#brands)
 
+## Books
 
 ## Shoes
 
