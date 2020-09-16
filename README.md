@@ -16,6 +16,8 @@ Based on the doctrine that man should live without exploiting animals!
 
 ## Books
 
+ - [That’s Not My Momma’s Milk!](https://veganpublishers.com/multimedia-archive/thats-not-my-mommas-milk/) - Really simple book, really easy to grasp and makes anyone of any age think, by exploring the animal kingdom and where baby animals get their milk from
+
 ## Shoes
 
  - [Adidas Superstar Vegan](https://www.adidas.com/us/superstar-vegan-shoes/FW2295.html) - New and vegan version model of old school skater shoes
