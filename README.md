@@ -82,7 +82,7 @@ Based on the doctrine that man should live without exploiting animals!
 
  - [AlPro](https://www.alpro.com/nl/) - Big variety of plant-based products
  - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden
- - [Violife](https://violifefoods.com/) - Various cheeses products
+ - [Violife](https://violifefoods.com/) - Really good plant-based cheese products that actually melt as well
 
 ## Contributing
 
