@@ -61,7 +61,7 @@ Based on the doctrine that man should live without exploiting animals!
    - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality 
 
  - London, UK
-   - [Eat By Cloe](https://eatbychloe.com/) - Mandatory fish and chips
+   - [Eat By Cloe](https://eatbychloe.com/) - For the mandatory fish and chips this place is definitely worth visiting
 
  - Oakland, USA
    - [Millennium Restaurant](https://www.millenniumrestaurant.com/) - Far cry from your ordinary vegan spot in that it takes a hands on, from scratch approach to food which assures a fresh, local, organic and homemade product every time
