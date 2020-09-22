@@ -81,6 +81,7 @@ Based on the doctrine that man should live without exploiting animals!
 *This category is stricly limited to fully vegan / 100% plant-based brands.*
 
  - [AlPro](https://www.alpro.com/nl/) - Big variety of plant-based products
+ - [Bedda](https://bedda-world.com/) - Whole selection of nice non-milk cheese slices and blocks, shreds to melt, as well as sauces, and cream cheese
  - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden
  - [Violife](https://violifefoods.com/) - Really good plant-based cheese products that actually melt as well
 
