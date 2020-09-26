@@ -45,6 +45,7 @@ Based on the doctrine that man should live without exploiting animals!
    - [Koffie Ende Koeck](https://koffieendekoeck.nl/) - Small vegan cafe, with nice brunch, and awesome vegan high tea
    - [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly with Asian kitchen and some dutch classics
    - [Mr. & Mrs. Watson](https://watsonsfood.com/) - Relaxed atmosphere, nice drinks, and great dishes
+   - [TerraZen Centre](http://terrazencentre.com/) - Chill vibe and mouth-watering dishes with Caribbean and Japanese influence, really close to central station
    - [Trevis](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing food
    - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality classics
    - [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts
