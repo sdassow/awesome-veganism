@@ -47,7 +47,7 @@ Based on the doctrine that man should live without exploiting animals!
    - [Mr. & Mrs. Watson](https://watsonsfood.com/) - Relaxed atmosphere, nice drinks, and great dishes
    - [TerraZen Centre](http://terrazencentre.com/) - Chill vibe and mouth-watering dishes with Caribbean and Japanese influence, really close to central station
    - [Trevi's Plant Based Italian Food](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing and authentic food, feels and tastes like in Italy
-   - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality classics
+   - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more
    - [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts
 
  - Bonn, Germany
