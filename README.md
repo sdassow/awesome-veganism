@@ -85,6 +85,7 @@ Based on the doctrine that man should live without exploiting animals!
  - [Bedda](https://bedda-world.com/) - Whole selection of nice non-milk cheese slices and blocks, shreds to melt, as well as sauces, and cream cheese
  - [Beyond Meat](https://www.beyondmeat.com/) - Very convincing burgers, sausages, meatballs, and more, all based on plants
  - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden
+ - [Tofuture](https://www.tofuture.com/) - Awesome tofu press, super easy and reliable to use, and can be placed in the fridge
  - [Violife](https://violifefoods.com/) - Really good plant-based cheese products that actually melt as well
 
 ## Contributing
