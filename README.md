@@ -13,6 +13,7 @@ Based on the doctrine that man should live without exploiting animals!
    - [Restaurants](#restaurants)
  - [Shops](#shops)
  - [Brands](#brands)
+ - [Websites](#websites)
 
 ## Books
 
@@ -88,6 +89,10 @@ Based on the doctrine that man should live without exploiting animals!
  - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden
  - [Tofuture](https://www.tofuture.com/) - Awesome tofu press, super easy and reliable to use, and can be placed in the fridge
  - [Violife](https://violifefoods.com/) - Really good plant-based cheese products that actually melt as well
+
+## Websites
+
+ - [Gewoon Vegan](https://gewoonvegan.nl/) - Really useful website showing a lot of regular vegan products that can be found in Dutch supermarkets
 
 ## Contributing
 
