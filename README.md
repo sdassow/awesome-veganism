@@ -88,6 +88,7 @@ Based on the doctrine that man should live without exploiting animals!
  - [Beyond Meat](https://www.beyondmeat.com/) - Very convincing burgers, sausages, meatballs, and more, all based on plants
  - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden
  - [Tofuture](https://www.tofuture.com/) - Awesome tofu press, super easy and reliable to use, and can be placed in the fridge
+ - [Vego](http://www.vego-chocolate.com/) - Super delicious chocolate bars with hazel nuts, as well as crunchy chocolate spread, and white almond chocolate
  - [Violife](https://violifefoods.com/) - Really good plant-based cheese products that actually melt as well
 
 ## Websites
