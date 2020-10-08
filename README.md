@@ -90,6 +90,7 @@ Based on the doctrine that man should live without exploiting animals!
  - [Tofuture](https://www.tofuture.com/) - Awesome tofu press, super easy and reliable to use, and can be placed in the fridge
  - [Vegafit](https://vegafit.com/) - Broad and tasty selection of plant-based meat products
  - [Vego](http://www.vego-chocolate.com/) - Super delicious chocolate bars with hazel nuts, as well as crunchy chocolate spread, and white almond chocolate
+ - [Vegusto](https://www.vegusto.ch/) - Unbelievable good swiss vegan cheese (No-Muh), plant-based meats, as well as vegan animal food
  - [Violife](https://violifefoods.com/) - Really good plant-based cheese products that actually melt as well
 
 ## Websites
