@@ -88,6 +88,7 @@ Based on the doctrine that man should live without exploiting animals!
  - [Beyond Meat](https://www.beyondmeat.com/) - Very convincing burgers, sausages, meatballs, and more, all based on plants
  - [Nature & Moi](http://www.nature-moi.fr/) - Great selection of different cheeses with various tastes
  - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden
+ - [Peas of Heaven](https://peasofheaven.com/) - Wide range of tasty products based on peas, from cocktail sausages, over bratwurst, to slices
  - [Tofuture](https://www.tofuture.com/) - Awesome tofu press, super easy and reliable to use, and can be placed in the fridge
  - [Vegafit](https://vegafit.com/) - Broad and tasty selection of plant-based meat products
  - [Vego](http://www.vego-chocolate.com/) - Super delicious chocolate bars with hazel nuts, as well as crunchy chocolate spread, and white almond chocolate
