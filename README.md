@@ -99,6 +99,7 @@ Based on the doctrine that man should live without exploiting animals!
 ## Websites
 
 - [Gewoon Vegan](https://gewoonvegan.nl/) - Really useful website showing a lot of regular vegan products that can be found in Dutch supermarkets
+- [Vegan Wiki](https://veganwiki.nl/) - Wiki from the Dutch association for veganism with a huge collection of products available in the Netherlands
 
 ## Contributing
 
