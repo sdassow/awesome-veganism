@@ -101,8 +101,3 @@ Based on the doctrine that man should live without exploiting animals!
 ## Contributing
 
 Everyone is welcome to contribute to this list - read the [contribution guidelines](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md) to find out how.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[Creative Commons Zero v1.0 Universal](LICENSE.md)
