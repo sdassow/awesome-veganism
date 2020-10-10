@@ -86,6 +86,7 @@ Based on the doctrine that man should live without exploiting animals!
  - [AlPro](https://www.alpro.com/nl/) - Big variety of plant-based products
  - [Bedda](https://bedda-world.com/) - Whole selection of nice non-milk cheese slices and blocks, shreds to melt, as well as sauces, and cream cheese
  - [Beyond Meat](https://www.beyondmeat.com/) - Very convincing burgers, sausages, meatballs, and more, all based on plants
+ - [Eat Real](https://www.eatreal.co.uk/) - Snacking galore with chips, sticks, and puffs; offering tastes like sour cream & chives, paprika, chilli cheese, mediterranean, and others
  - [Nature & Moi](http://www.nature-moi.fr/) - Great selection of different cheeses with various tastes
  - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden
  - [Peas of Heaven](https://peasofheaven.com/) - Wide range of tasty products based on peas, from cocktail sausages, over bratwurst, to slices
