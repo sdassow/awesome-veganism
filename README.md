@@ -8,9 +8,8 @@ Based on the doctrine that man should live without exploiting animals!
 
 - [Books](#books)
 - [Shoes](#shoes)
-- [Food](#food)
-  - [Bakeries](#bakeries)
-  - [Restaurants](#restaurants)
+- [Bakeries](#bakeries)
+- [Restaurants](#restaurants)
 - [Shops](#shops)
 - [Brands](#brands)
 - [Websites](#websites)
@@ -25,9 +24,7 @@ Based on the doctrine that man should live without exploiting animals!
 - [Adidas Superstar Vegan](https://www.adidas.com/us/superstar-vegan-shoes/FW2295.html) - New and vegan version model of old school skater shoes
 - [Etnies](https://www.etnies.com/us/collections/vegan/) - Light and very comfortable shoe
 
-## Food
-
-### Bakeries
+## Bakeries
 
 *This category is strictly limited to fully vegan / 100% plant-based bakeries.*
 
@@ -37,7 +34,7 @@ Based on the doctrine that man should live without exploiting animals!
 - Zaandijk, Netherlands
   - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness
 
-### Restaurants
+## Restaurants
 
 *This category is strictly limited to fully vegan / 100% plant-based restaurants.*
 
