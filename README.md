@@ -85,6 +85,7 @@ Based on the doctrine that man should live without exploiting animals!
 - [Beyond Meat](https://www.beyondmeat.com/) - Very convincing burgers, sausages, meatballs, and more, all based on plants.
 - [Dandies](https://dandies.com/) - Delicious, soft, melting, and all natural marshmallows with vanilla, pumkin, or peppermint taste.
 - [Eat Real](https://www.eatreal.co.uk/) - Snacking galore with chips, sticks, and puffs; offering tastes like sour cream & chives, paprika, chilli cheese, mediterranean, and others.
+- [Happy Cashew](https://happy-cheeze.com/) - Creamy, delicious cashew based milk product alternatives, with a big variety of brie style cheeses and more.
 - [Nature & Moi](http://www.nature-moi.fr/) - Great selection of different cheeses with various tastes.
 - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden.
 - [Peas of Heaven](https://peasofheaven.com/) - Wide range of tasty products based on peas, from cocktail sausages, over bratwurst, to slices.
