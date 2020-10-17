@@ -83,7 +83,7 @@ Based on the doctrine that man should live without exploiting animals!
 - [AlPro](https://www.alpro.com/nl/) - Big variety of plant-based products.
 - [Bedda](https://bedda-world.com/) - Whole selection of nice non-milk cheese slices and blocks, shreds to melt, as well as sauces, and cream cheese.
 - [Beyond Meat](https://www.beyondmeat.com/) - Very convincing burgers, sausages, meatballs, and more, all based on plants.
-- [Dandies](https://dandies.com/) - Delicious, soft, melting, and all natural marshmallows with vanilla, pumkin, or peppermint taste.
+- [Dandies](https://dandies.com/) - Delicious, soft, melting, and all natural marshmallows with vanilla, pumpkin, or peppermint taste.
 - [Daiya](https://daiyafoods.com/) - Amazing cheesecakes, frozen pizzas, various cheesy products, and more desserts.
 - [Eat Real](https://www.eatreal.co.uk/) - Snacking galore with chips, sticks, and puffs; offering tastes like sour cream & chives, paprika, chilli cheese, mediterranean, and others.
 - [Happy Cashew](https://happy-cheeze.com/) - Creamy, delicious cashew based milk product alternatives, with a big variety of brie style cheeses and more.
