@@ -92,6 +92,7 @@ Based on the doctrine that man should live without exploiting animals!
 - [Peas of Heaven](https://peasofheaven.com/) - Wide range of tasty products based on peas, from cocktail sausages, over bratwurst, to slices.
 - [Tofuture](https://www.tofuture.com/) - Awesome tofu press, super easy and reliable to use, and can be placed in the fridge.
 - [Valsoia](https://www.valsoia.it/) - Absolutely amazing Italian ice cream, ice cones, hazelnut spread, and other food products.
+- [Vantastic Foods](https://www.vantastic-foods.com/) - Massive selection of plant-based products, including their own brand with different types of delicious sausages, slices, and more.
 - [Vegafit](https://vegafit.com/) - Broad and tasty selection of plant-based meat products.
 - [Vego](http://www.vego-chocolate.com/) - Super delicious chocolate bars with hazel nuts, as well as crunchy chocolate spread, and white almond chocolate.
 - [Vegusto](https://www.vegusto.ch/) - Unbelievable good swiss vegan cheese (No-Muh), plant-based meats, as well as vegan animal food.
