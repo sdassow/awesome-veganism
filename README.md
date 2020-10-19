@@ -57,6 +57,9 @@ Based on the doctrine that man should live without exploiting animals!
   - [Bij Albrecht](https://www.bijalbrecht.nl/) - Vegan and organic food experience with seasonal produce.
   - [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts.
 
+- Hilversum, Netherlands
+  - [Mr. Vegan Foodbar](https://www.mrveganfoodbar.nl/) - Amazing selection of delicious soups, bowls, currys, quality junk food, and tasty snacks.
+
 - Köln, Germany
   - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality.
 
