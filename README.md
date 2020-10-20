@@ -94,6 +94,7 @@ Based on the doctrine that man should live without exploiting animals!
 - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden.
 - [Peas of Heaven](https://peasofheaven.com/) - Wide range of tasty products based on peas, from cocktail sausages, over bratwurst, to slices.
 - [Tofuture](https://www.tofuture.com/) - Awesome tofu press, super easy and reliable to use, and can be placed in the fridge.
+- [Tofurky](https://tofurky.com/) - Delicious sausages, deli slices, burgers, roasts, and other plant-based protein products.
 - [Valsoia](https://www.valsoia.it/) - Absolutely amazing Italian ice cream, ice cones, hazelnut spread, and other food products.
 - [Vantastic Foods](https://www.vantastic-foods.com/) - Massive selection of plant-based products, including their own brand with different types of delicious sausages, slices, and more.
 - [Vegafit](https://vegafit.com/) - Broad and tasty selection of plant-based meat products.
