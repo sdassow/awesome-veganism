@@ -58,7 +58,7 @@ Based on the doctrine that man should live without exploiting animals!
   - [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts.
 
 - Hilversum, Netherlands
-  - [Mr. Vegan Foodbar](https://www.mrveganfoodbar.nl/) - Amazing selection of delicious soups, bowls, currys, quality junk food, and tasty snacks.
+  - [Mr. Vegan Foodbar](https://www.mrveganfoodbar.nl/) - Amazing selection of delicious soups, bowls, curries, quality junk food, and tasty snacks.
 
 - Köln, Germany
   - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality.
