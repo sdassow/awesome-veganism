@@ -93,6 +93,7 @@ Based on the doctrine that man should live without exploiting animals!
 - [Nature & Moi](http://www.nature-moi.fr/) - Great selection of different cheeses with various tastes.
 - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden.
 - [Peas of Heaven](https://peasofheaven.com/) - Wide range of tasty products based on peas, from cocktail sausages, over bratwurst, to slices.
+- [Petit Veganne](https://petit-veganne.com/) - Amazing French artisanal cheese, soft and creamy brie with different flavours.
 - [Tofuture](https://www.tofuture.com/) - Awesome tofu press, super easy and reliable to use, and can be placed in the fridge.
 - [Tofurky](https://tofurky.com/) - Delicious sausages, deli slices, burgers, roasts, and other plant-based protein products.
 - [Valsoia](https://www.valsoia.it/) - Absolutely amazing Italian ice cream, ice cones, hazelnut spread, and other food products.
