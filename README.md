@@ -98,6 +98,7 @@ Based on the doctrine that man should live without exploiting animals!
 - [Tofurky](https://tofurky.com/) - Delicious sausages, deli slices, burgers, roasts, and other plant-based protein products.
 - [Valsoia](https://www.valsoia.it/) - Absolutely amazing Italian ice cream, ice cones, hazelnut spread, and other food products.
 - [Vantastic Foods](https://www.vantastic-foods.com/) - Massive selection of plant-based products, including their own brand with different types of delicious sausages, slices, and more.
+- [Vega](https://myvega.com/) - Big selection of plant-based protein powders, power bars, vitamins, and supplements for bodybuilders and fitness people.
 - [Vegafit](https://vegafit.com/) - Broad and tasty selection of plant-based meat products.
 - [Vego](http://www.vego-chocolate.com/) - Super delicious chocolate bars with hazel nuts, as well as crunchy chocolate spread, and white almond chocolate.
 - [Vegusto](https://www.vegusto.ch/) - Unbelievable good swiss vegan cheese (No-Muh), plant-based meats, as well as vegan animal food.
