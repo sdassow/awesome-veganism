@@ -33,6 +33,9 @@ Based on the doctrine that man should live without exploiting animals!
 
 - Zaandijk, Netherlands
   - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
+  
+- Portland, OR, USA
+  - [Shoofly bakery](https://www.shooflyveganbakery.com/) - Vegan items delivered.
 
 ## Restaurants
 
@@ -68,6 +71,9 @@ Based on the doctrine that man should live without exploiting animals!
 
 - Oakland, USA
   - [Millennium Restaurant](https://www.millenniumrestaurant.com/) - Far cry from your ordinary vegan spot in that it takes a hands on, from scratch approach to food which assures a fresh, local, organic and homemade product every time.
+  
+- Ashland, OR, USA
+  - [NW Raw](https://nwraw.com/) - Juices and snacks, vegan ice cream.
  
 - Utrecht, Netherlands
   - [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food.
