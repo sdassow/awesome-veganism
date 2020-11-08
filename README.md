@@ -69,6 +69,9 @@ Based on the doctrine that man should live without exploiting animals!
 - London, UK
   - [Eat By Cloe](https://eatbychloe.com/) - For the mandatory fish and chips this place is definitely worth visiting.
 
+- New York, USA
+  - [Berben & Wolff's](https://berbenandwolffs.com/) - Easygoing counter-serve deli with a cheerful vibe specializing in vegan light fare & desserts. Locations in Albany and Troy, New York. 
+  
 - Oakland, USA
   - [Millennium Restaurant](https://www.millenniumrestaurant.com/) - Far cry from your ordinary vegan spot in that it takes a hands on, from scratch approach to food which assures a fresh, local, organic and homemade product every time.
   
