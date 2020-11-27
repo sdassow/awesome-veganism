@@ -53,6 +53,9 @@ Based on the doctrine that man should live without exploiting animals!
   - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more.
   - [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts.
 
+- Berkeley, CA, USA
+  - [The Butcher's Son](https://www.thebutchersveganson.com/) - Comfort food spilling off of your plate. Grab a main, a couple of sides and a plenty of napkins.
+  
 - Bonn, Germany
   - [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria.
    
