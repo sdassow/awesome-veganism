@@ -1,8 +1,9 @@
 # Awesome Veganism [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome resources, pointers, and tips related to veganism.
+> A curated list of awesome resources, pointers, and tips to make veganism easy and accessible to everyone.
 
-Based on the doctrine that man should live without exploiting animals!
+[Veganism](https://en.wikipedia.org/wiki/Veganism) is a plant-based lifestyle, avoiding animal products as much as possible.
+This list is an attempt to create a community driven approach to guarantee no-nonsense content, 100% aligned with the vegan lifestyle, in order to minimise the effort needed for an awesome experience.
 
 ## Contents
 
