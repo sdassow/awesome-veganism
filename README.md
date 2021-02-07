@@ -30,6 +30,9 @@ This list is an attempt to create a community driven approach to guarantee no-no
 
 *This category is strictly limited to fully vegan / 100% plant-based bakeries.*
 
+- Amsterdam, Netherlands
+  - [Vegan Sugar Mama's](https://vegansugarmamas.nl/) - Delicious vegan treats in various colors, and even cookies with a personalised picture.
+
 - Monster, Netherlands
   - [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - Amazing selection of cakes, macarons, dutch specialties, and more.
 
