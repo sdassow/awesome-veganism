@@ -63,8 +63,8 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - Eindhoven, Netherlands
   - [Bar Bistro Calypso](https://www.bistrocalypso.nl/) - Cosiest livingroom in town, with tasty no-nonsense dishes and good drinks.
   - [Bij Albrecht](https://www.bijalbrecht.nl/) - Vegan and organic food experience with seasonal produce.
-  - [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts.
   - [Jungle Café & Catering](https://www.junglecafecatering.nl) - Vegan coffeebar & lunchroom for young and old. Also offers catering & take away.
+  - [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts.
 
 - Hilversum, Netherlands
   - [Mr. Vegan Foodbar](https://www.mrveganfoodbar.nl/) - Amazing selection of delicious soups, bowls, curries, quality junk food, and tasty snacks.
