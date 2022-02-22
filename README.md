@@ -33,6 +33,9 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - Amsterdam, Netherlands
   - [Vegan Sugar Mama's](https://vegansugarmamas.nl/) - Delicious vegan treats in various colors, and even cookies with a personalised picture.
 
+- Berlin, Germany
+  - [Brammibal's Donuts](https://www.brammibalsdonuts.com/) - The most tasty high quality vegan donuts in Berlin.
+
 - Monster, Netherlands
   - [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - Amazing selection of cakes, macarons, dutch specialties, and more.
 
