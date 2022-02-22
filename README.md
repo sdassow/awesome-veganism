@@ -109,7 +109,7 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - [Daiya](https://daiyafoods.com/) - Amazing cheesecakes, frozen pizzas, various cheesy products, and more desserts.
 - [Eat Real](https://www.eatreal.co.uk/) - Snacking galore with chips, sticks, and puffs; offering tastes like sour cream & chives, paprika, chilli cheese, mediterranean, and others.
 - [Happy Cashew](https://happy-cheeze.com/) - Creamy, delicious cashew based milk product alternatives, with a big variety of brie style cheeses and more.
-- [Nature & Moi](http://www.nature-moi.fr/) - Great selection of different cheeses with various tastes.
+- [Nurishh](https://nurishhplantbased.com/) - Great selection of different cheeses with various tastes.
 - [Oatly](https://www.oatly.com/int/) - Amazing range of oat based products from Sweden.
 - [Peas of Heaven](https://peasofheaven.com/) - Wide range of tasty products based on peas, from cocktail sausages, over bratwurst, to slices.
 - [Petit Veganne](https://petit-veganne.com/) - Amazing French artisanal cheese, soft and creamy brie with different flavours.
