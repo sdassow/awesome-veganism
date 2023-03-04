@@ -45,6 +45,9 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - Portland, OR, USA
   - [Shoofly bakery](https://www.shooflyveganbakery.com/) - Vegan items delivered.
 
+- Salt Lake City, UT, USA
+    - [Yumz Vegan Bakery & Cafe](https://www.toasttab.com/yumz-llc-3490-s-state-st/v3/) - Mexican vegan bakery with excellent food options.
+
 - Zaandijk, Netherlands
   - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
 
