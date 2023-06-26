@@ -57,11 +57,9 @@ This list is an attempt to create a community driven approach to guarantee no-no
 *This category is strictly limited to fully vegan / 100% plant-based restaurants.*
 
 - Amsterdam, Netherlands
-  - [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes.
   - [Koffie Ende Koeck](https://koffieendekoeck.nl/) - Small vegan cafe, with nice brunch, and awesome vegan high tea.
   - [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly with Asian kitchen and some dutch classics.
   - [Mooshka](https://www.mooshka.nl/) - Stylish place with nice atmosphere, and a great variety of tasty dishes and drinks.
-  - [Mr. & Mrs. Watson](https://watsonsfood.com/) - Relaxed atmosphere, nice drinks, and great dishes.
   - [TerraZen Centre](http://terrazencentre.com/) - Chill vibe and mouth-watering dishes with Caribbean and Japanese influence, really close to central station.
   - [Trevi's Plant Based Italian Food](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing and authentic food, feels and tastes like in Italy.
   - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more.
