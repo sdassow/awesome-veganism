@@ -111,7 +111,6 @@ This list is an attempt to create a community driven approach to guarantee no-no
 ## Shops
 
 - [VEGA-LIFE](https://www.vega-life.nl/) - Shoes, fashion, lifestlye products, 20+ years around.
-- [Vegabond](https://vegabond.nl/) - Fully vegan store, in-house deli, and catering in Amsterdam, Netherlands.
 - [Vegan Mission](https://www.veganmission.nl/) - Online store for Belgium and the Netherlands.
 - [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food.
 - [veganized](https://www.veganized.es/gb/) - Spanish (Malaga) store with mens, womens and children clothes.
