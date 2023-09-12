@@ -74,11 +74,18 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - Bonn, Germany
   - [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria.
 
+- Duisburg, Germany
+  - [Falafel 1001](https://www.falafel1001-duisburg.de/) - Amazing arabic dishes, delicious ingredients and spices, big portions, and very good prices.
+  - [Krümelküche](http://www.kruemelkueche.de/) - Cosy place with a nice selection of main dishes, burgers, cakes, and good drinks.
+
 - Eindhoven, Netherlands
   - [Bar Bistro Calypso](https://www.bistrocalypso.nl/) - Cosiest livingroom in town, with tasty no-nonsense dishes and good drinks.
   - [Bij Albrecht](https://www.bijalbrecht.nl/) - Vegan and organic food experience with seasonal produce.
   - [Jungle Café & Catering](https://www.junglecafecatering.nl) - Vegan coffeebar & lunchroom for young and old. Also offers catering & take away.
   - [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts.
+
+- Essen, Germany
+  - [Peace Food](https://www.facebook.com/peacefoodessen) - Relaxed atmosphere, big selection of really good vietnamese dishes, and offering refreshing home-made drinks.
 
 - Hilversum, Netherlands
   - [Mr. Vegan Foodbar](https://www.mrveganfoodbar.nl/) - Amazing selection of delicious soups, bowls, curries, quality junk food, and tasty snacks.
