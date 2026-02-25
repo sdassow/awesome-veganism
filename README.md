@@ -13,6 +13,7 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - [Restaurants](#restaurants)
 - [Shops](#shops)
 - [Brands](#brands)
+- [Tools](#tools)
 - [Websites](#websites)
 
 ## Books
@@ -140,6 +141,10 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - [Vego](http://www.vego-chocolate.com/) - Super delicious chocolate bars with hazel nuts, as well as crunchy chocolate spread, and white almond chocolate.
 - [Vegusto](https://www.vegusto.ch/) - Unbelievable good swiss vegan cheese (No-Muh), plant-based meats, as well as vegan animal food.
 - [Violife](https://violifefoods.com/) - Really good plant-based cheese products that actually melt as well.
+
+## Tools
+
+- [Speciesist Language Scanner](https://github.com/Open-Paws/speciesist-language-scanner) - Rule files for detecting speciesist language in code and documentation, compatible with woke, alex, and Vale
 
 ## Websites
 
