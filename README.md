@@ -174,6 +174,7 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - [HappyCow](https://www.happycow.net/) - Find vegan and vegetarian restaurants worldwide with community reviews and photos
 - [abillion](https://www.abillion.com/) - Review plant-based products and restaurants while donating to animal welfare organizations with every review
 - [Is It Vegan](https://github.com/hmontazeri/is-vegan) - Open source library and tool to check if a food ingredient or product is vegan
+- [MealThinker](https://mealthinker.com) - AI meal planner with vegan support that remembers your preferences and kitchen inventory to suggest personalized plant-based meals
 
 ## Contributing
 
